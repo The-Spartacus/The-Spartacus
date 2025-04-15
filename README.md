@@ -59,7 +59,7 @@ Want a sneak peek or collab on any? Let’s talk!
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vaishnav-v-239209360)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vaishnavvimeedkumar@g,ail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vaishnavvineedkumar@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat&logo=github&logoColor=white)](https://yourwebsite.com)
 
 ---
